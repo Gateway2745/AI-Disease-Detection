@@ -16,6 +16,7 @@
 ../dataset/ears/diseased/hiren/20190908_115614.jpg,3,99,80,2132,4057
 ../dataset/ears/diseased/hiren/20190908_115705.jpg,3,305,12,2298,4047
 ../dataset/ears/diseased/hiren/20190908_115744.jpg,3,324,315,1975,4086
+../dataset/ears/diseased/hiren/20190908_115804.jpg,3,25,722,1999,3013
 ../dataset/ears/diseased/hiren/20190908_115827.jpg,3,119,51,2317,4008
 ../dataset/ears/diseased/hiren/20190908_115840.jpg,3,41,21,2259,4066
 ../dataset/ears/diseased/hiren/20190908_115905.jpg,3,510,803,1927,4037
@@ -42,6 +43,7 @@
 ../dataset/ears/diseased/hiren/20190908_121228.jpg,3,226,451,2269,3852
 ../dataset/ears/diseased/hiren/20190908_121244.jpg,3,451,41,2308,4086
 ../dataset/ears/diseased/hiren/20190908_121258.jpg,3,412,412,2083,4076
+../dataset/ears/diseased/hiren/20190908_121320.jpg,3,208,431,2273,3222
 ../dataset/ears/diseased/hiren/20190908_121346.jpg,3,187,70,2288,4027
 ../dataset/ears/diseased/hiren/20190908_121442.jpg,3,21,41,2034,4076
 ../dataset/ears/diseased/manan/20190908_104237.jpg,3,667,995,1917,3705
@@ -88,6 +90,12 @@
 ../dataset/ears/diseased/manan/20190908_110115.jpg,3,1399,892,3848,1999
 ../dataset/ears/diseased/manan/20190908_110125.jpg,3,1044,461,2243,3757
 ../dataset/ears/diseased/manan/20190908_110304.jpg,3,745,1047,1696,3679
+../dataset/ears/diseased/manan/20190908_110308.jpg,2,1495,909,1765,1605
+../dataset/ears/diseased/manan/20190908_110308.jpg,2,2004,1018,2104,1435
+../dataset/ears/diseased/manan/20190908_110308.jpg,2,2169,1144,2408,1522
+../dataset/ears/diseased/manan/20190908_110308.jpg,2,221,1748,343,2265
+../dataset/ears/diseased/manan/20190908_110308.jpg,2,2647,1996,2834,2800
+../dataset/ears/diseased/manan/20190908_110308.jpg,3,1617,1792,2151,3557
 ../dataset/ears/diseased/manan/20190908_110402.jpg,3,719,1282,2100,3549
 ../dataset/ears/diseased/manan/20190908_110404.jpg,3,445,1855,1761,4005
 ../dataset/ears/diseased/manan/20190908_110406.jpg,3,211,982,2061,4044
@@ -169,6 +177,14 @@
 ../dataset/ears/healthy/hiren/20190907_134149.jpg,2,559,70,1428,4057
 ../dataset/ears/healthy/hiren/20190907_134219.jpg,2,266,510,2142,4106
 ../dataset/ears/healthy/hiren/20190907_134231.jpg,2,725,373,1858,4106
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,1143,1439,1257,1787
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,1160,618,1317,957
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,1351,674,1512,1052
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,21,396,317,1409
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,356,965,473,1331
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,664,1518,878,2161
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,734,518,930,965
+../dataset/ears/healthy/hiren/20190907_134247.jpg,2,838,652,2304,4109
 ../dataset/ears/healthy/hiren/20190907_134255.jpg,2,783,1008,1458,3988
 ../dataset/ears/healthy/hiren/20190907_134303.jpg,2,705,51,1555,3988
 ../dataset/ears/healthy/hiren/20190907_134308.jpg,2,715,373,1604,4125
@@ -296,6 +312,7 @@
 ../dataset/ears/healthy/manan/20190907_133618.jpg,2,1175,201,2061,4057
 ../dataset/ears/healthy/manan/20190907_133623.jpg,2,862,396,1956,4044
 ../dataset/ears/healthy/manan/20190907_133631.jpg,2,771,70,1644,4083
+../dataset/ears/healthy/manan/20190907_133635.jpg,2,1,287,912,4128
 ../dataset/ears/healthy/manan/20190907_133757.jpg,2,1083,266,1956,4083
 ../dataset/ears/healthy/manan/20190907_133802.jpg,2,1057,227,1852,4018
 ../dataset/ears/healthy/manan/20190907_133810.jpg,2,1253,643,2490,4083
@@ -350,6 +367,7 @@
 ../dataset/leaves/diseased/hiren/20190908_130140.jpg,1,549,21,1721,4076
 ../dataset/leaves/diseased/hiren/20190908_131451.jpg,1,451,31,1848,4106
 ../dataset/leaves/diseased/hiren/20190908_131536.jpg,1,617,21,1868,4125
+../dataset/leaves/diseased/hiren/20190908_131607.jpg,1,393,1135,4127,2322
 ../dataset/leaves/diseased/hiren/20190908_131636.jpg,1,207,31,1555,4066
 ../dataset/leaves/diseased/hiren/20190908_131657.jpg,1,402,2581,998,4106
 ../dataset/leaves/diseased/hiren/20190908_131657.jpg,1,910,31,1653,4115
@@ -389,6 +407,8 @@
 ../dataset/leaves/diseased/hiren/20190908_134503.jpg,1,725,256,1643,4115
 ../dataset/leaves/diseased/hiren/20190908_134534.jpg,1,70,630,4096,1255
 ../dataset/leaves/diseased/hiren/20190908_135410.jpg,1,725,61,1848,4096
+../dataset/leaves/diseased/hiren/20190908_135425.jpg,1,47,2700,2208,3118
+../dataset/leaves/diseased/hiren/20190908_135425.jpg,1,578,26,1164,4128
 ../dataset/leaves/diseased/hiren/20190908_135456.jpg,1,80,434,4115,1441
 ../dataset/leaves/diseased/hiren/20190908_135538.jpg,1,852,31,2024,4066
 ../dataset/leaves/diseased/hiren/20190908_135548.jpg,1,1028,21,1868,4057
@@ -721,6 +741,8 @@
 ../dataset/leaves/healthy/manan/20190908_102301.jpg,0,1123,31,1930,4096
 ../dataset/leaves/healthy/manan/20190908_102305.jpg,0,1383,57,2543,4070
 ../dataset/leaves/healthy/manan/20190908_102410.jpg,0,982,1570,3614,2273
+../dataset/leaves/healthy/manan/20190908_102427.jpg,0,451,539,1682,4128
+../dataset/leaves/healthy/manan/20190908_102427.jpg,0,599,283,3091,935
 ../dataset/leaves/healthy/manan/20190908_102434.jpg,0,914,214,1748,4070
 ../dataset/leaves/healthy/manan/20190908_102528.jpg,0,797,109,1839,4031
 ../dataset/leaves/healthy/manan/20190908_102532.jpg,0,966,214,1891,3992
