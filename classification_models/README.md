@@ -1,0 +1,1 @@
+Custom as well as standard classification architectures have been used for training. Our custom architecture, with much smaller number parameters outperformed other models in classification accuracy.
