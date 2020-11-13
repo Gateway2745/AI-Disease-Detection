@@ -8,28 +8,30 @@ Images have been manually collected and annotated.
 ## Sample ground truth images 
 
 <table>
-  <tr>
-    <td><img src="images/ground_truth/756.png"></td>
-    <td><img src="images/ground_truth/498.png"></td>
-  </tr>
-    <tr>
-    <td><img src="images/ground_truth/104.png"></td>
-    <td><img src="images/ground_truth/300.png"></td>
-  </tr>
- </table>
+<tr>
+  <td><img src="images/gt_combined.png"></td>
+</tr>
+</table>
 
 <br>
 <hr>
 
-## Dataset Distribution
+## Test-Set Detections
 
-|    Type   | #Leaves        |     #Ears      | 
-|:-----------:| :-------------: | :-------------: |
-|  <b>Healthy  | 235  | 238  |
-|  <b>Diseased | 200  | 113  |
+<table>
+<tr>
+  <td><img src="images/test_combined.png"></td>
+</tr>
+</table>
 
+<br>
 <hr>
 
-## Test-Set Results
+## Classification Model Interpretability
 
-Coming Soon !
+<table>
+<tr>
+  <td><img src="images/vis_combined.png"></td>
+</tr>
+</table>
+
